@@ -8,6 +8,11 @@
       "name": "my-first-plugin",
       "source": "./my-first-plugin",
       "description": "My first test plugin"
+    },
+    {
+      "name": "my-second-plugin",
+      "source": "./my-second-plugin",
+      "description": "My second test plugin"
     }
   ]
 }
